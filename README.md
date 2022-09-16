@@ -8,7 +8,7 @@ Projeto construído do evento Next Level Week da Rockeseat.
 
 [Clique aqui para acessar] (https://affonsok.github.io/nlw-esports-explorer/)
 
-##tools  Tecnologias
+## Tecnologias
 - HTML
 - CSS
 - Git e Github
