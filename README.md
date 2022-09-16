@@ -1,3 +1,20 @@
-# nlw2
+# NLW eSports
 
-projeto NLW Esports 2022
+![preview](./.github/preview.png)
+
+> Trilha Explorer
+
+Projeto construído do evento Next Level Week da Rockeseat.
+
+[Clique aqui para acessar] (https://affonsok.github.io/nlw-esports-explorer/)
+
+##tools  Tecnologias
+- HTML
+- CSS
+- Git e Github
+
+## Contato
+  affonsok@gmail.com
+
+
+
